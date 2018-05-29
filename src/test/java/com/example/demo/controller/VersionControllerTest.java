@@ -9,5 +9,6 @@ public class VersionControllerTest {
 
     @Test
     public void shouldReturnVersion () {
+        System.out.println("ddddddddddddddddddddddddddddd");
     }
 }
